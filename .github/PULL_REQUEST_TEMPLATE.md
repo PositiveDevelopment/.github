@@ -11,3 +11,6 @@ Explain any non-obvious changes / notes on your solution.
 **Screenshots (optional):** 
 
 Any supplemental screenshots, if necessary. 
+
+**Checklist:**
+- [ ] Code has test coverage
